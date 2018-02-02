@@ -1,3 +1,3 @@
-# ML self-study
+# Code for testing ML
 
-Codes for ml
+ML self-study
